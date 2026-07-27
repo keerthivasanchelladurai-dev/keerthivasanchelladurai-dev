@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+Developer;QA+Engineer;REST+API+Developer;Always+Learning+New+Things" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=keerthivasanchelladurai-dev&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -139,23 +139,23 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=keerthivasanchelladurai-dev&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=keerthivasanchelladurai-dev&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=keerthivasanchelladurai-dev&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15)
+![](https://github-profile-trophy.vercel.app/?username=keerthivasanchelladurai-dev&theme=tokyonight&margin-w=15&margin-h=15)
 
 ---
 
 # 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=keerthivasanchelladurai-dev&theme=tokyo-night)
 
 ---
 
@@ -163,7 +163,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/keerthivasanchelladurai-dev/keerthivasanchelladurai-dev/output/github-contribution-grid-snake.svg">
 
 </p>
 
