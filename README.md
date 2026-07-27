@@ -161,16 +161,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/keerthivasanchelladurai-dev/keerthivasanchelladurai-dev/output/github-contribution-grid-snake.svg">
-
-</p>
-
----
-
 # ⚙️ Quote
 
 > "Code. Learn. Build. Repeat."
