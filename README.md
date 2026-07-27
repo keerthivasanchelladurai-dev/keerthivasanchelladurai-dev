@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+Developer;QA+Engineer;REST+API+Developer;Always+Learning+New+Things" />
 
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=keerthivasanchelladurai-dev&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
