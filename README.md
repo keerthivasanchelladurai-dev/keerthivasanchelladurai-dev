@@ -1,8 +1,10 @@
-<div align="center">
+ <div align="center">
 
 # 👋 Hi, I'm Keerthivasan C
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+Developer;QA+Engineer;REST+API+Developer;Always+Learning+New+Things" />
+### .NET Full Stack Developer | Product Development
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=.NET+Full+Stack+Developer;C%23+%7C+ASP.NET+Core;Web+Application+Development;Desktop+to+Web+Modernization;Building+Scalable+Products" />
 
 <br>
 
@@ -16,17 +18,21 @@
 
 🚀 Computer Science Engineering Graduate
 
-💻 Java Backend Developer
+💻 **Full Stack Developer at Dice Technology Software Solutions**
 
-🌱 Learning Spring Boot Microservices
+🌐 Working on web application development and desktop-to-web modernization
 
-🧪 Manual Testing | API Testing
+📱 Interested in building cross-platform mobile applications
 
-📚 Currently improving DSA & System Design
+⚙️ Learning C#, .NET and ASP.NET Core
 
-⚡ Passionate about solving real-world problems
+☕ Previous experience with Java, Spring Boot and REST APIs
 
-📍 Bengaluru, India
+🔐 Interested in secure coding, application architecture and data protection
+
+⚡ Passionate about building practical software products and solving real-world problems
+
+📍 Trichy, Tamil Nadu, India
 
 ---
 
@@ -36,12 +42,10 @@
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
-
 <a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
-
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/keerthivasanchelladurai-dev">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 </p>
@@ -53,89 +57,70 @@
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java"/>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=cs,java,python,javascript"/>
 </p>
 
-## Backend
+## Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring"/>
-<img src="https://skillicons.dev/icons?i=maven"/>
-<img src="https://skillicons.dev/icons?i=hibernate"/>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,spring,maven,hibernate"/>
 </p>
 
-## Frontend
+## Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
-<img src="https://skillicons.dev/icons?i=javascript"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap"/>
 </p>
 
-## Testing
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+## API Development & Testing
 
 <p>
 <img src="https://skillicons.dev/icons?i=postman"/>
 <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="48"/>
 </p>
 
-## Database
+## Testing & Automation
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=selenium,jenkins"/>
 </p>
 
 ## DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=docker"/>
-<img src="https://skillicons.dev/icons?i=jenkins"/>
-<img src="https://skillicons.dev/icons?i=vscode"/>
-<img src="https://skillicons.dev/icons?i=intellij"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,vscode,visualstudio"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🎓 Student Management System
+### 🏢 Student Management System
 
-✔ Spring Boot
-
-✔ Spring Data JPA
-
-✔ Hibernate
-
-✔ MySQL
-
-✔ REST API
-
----
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- MySQL
+- REST API
 
 ### 🧪 QA Test Assist
 
-✔ FastAPI
-
-✔ API Automation
-
-✔ AI Prompt Generator
-
----
+- FastAPI
+- API Automation
+- AI Prompt Generator
 
 ### 📚 Library Management System
 
-✔ Flask
-
-✔ MongoDB Atlas
-
-✔ Authentication
-
-✔ Excel Bulk Upload
+- Flask
+- MongoDB Atlas
+- Authentication
+- Excel Bulk Upload
 
 ---
 
@@ -163,7 +148,7 @@
 
 # ⚙️ Quote
 
-> "Code. Learn. Build. Repeat."
+> "Build with purpose. Code with precision. Grow with experience."
 
 ---
 
